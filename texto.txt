@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 Git é Difícil
 
 Danyel, Nayra e Mary
-
-=======
 git é fácil
->>>>>>> 46b028e (menssagem da nayzinha :0)
